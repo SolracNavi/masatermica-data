@@ -1,1 +1,164 @@
-{}
+{
+  "_precios": {
+    "refractarios": 4000,
+    "cocidosModulares": 500
+  },
+  "gymse_combinada": {
+    "nombre": "Gymse Combinada (con horno y banco)",
+    "diasEstufero": 6,
+    "cantEstuferos": 1,
+    "diasAyudante": 5,
+    "cantAyudantes": 3,
+    "diasZinguero": 1,
+    "cantZinguero": 1,
+    "diasAprendiz": 0,
+    "cantAprendiz": 0,
+    "pctImprevistos": 20,
+    "materiales": [
+      {
+        "material": "Ladrillos refractarios",
+        "modelo": "",
+        "cantidad": 100,
+        "precioUnit": 4000,
+        "categoria": "Mampostería",
+        "obs": "Cerámica Avellaneda"
+      },
+      {
+        "material": "Ladrillos cocidos modulares",
+        "modelo": "Chicos 45x105x230",
+        "cantidad": 1000,
+        "precioUnit": 500,
+        "categoria": "Mampostería",
+        "obs": "Tipo Allen o Mendoza"
+      },
+      {
+        "material": "Arena",
+        "modelo": "m³",
+        "cantidad": 1,
+        "precioUnit": 80000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Tierra arcillosa",
+        "modelo": "m³",
+        "cantidad": 0.5,
+        "precioUnit": 40000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Lana de roca",
+        "modelo": "Plancha 120x60cm 50mm",
+        "cantidad": 2,
+        "precioUnit": 47282,
+        "categoria": "Aislación",
+        "obs": "100kg/m³"
+      },
+      {
+        "material": "Losetas h.a.",
+        "modelo": "Placa 65x65cm",
+        "cantidad": 4,
+        "precioUnit": 24000,
+        "categoria": "Mampostería",
+        "obs": "65cm2 de Hormigón armado"
+      },
+      {
+        "material": "Caños 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 5,
+        "precioUnit": 16830,
+        "categoria": "Zinguería",
+        "obs": "Inox sobre cal.25"
+      },
+      {
+        "material": "Camisa aislación 10\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 13530,
+        "categoria": "Zinguería",
+        "obs": "Inox sobre cal.25"
+      },
+      {
+        "material": "Sombrero Ventury 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 24420,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Kit Dektite Nro 7",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 150829,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Reducción 10\" a 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 19140,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Tapacielo 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 12000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Hierro T 2\" 3/16",
+        "modelo": "ml",
+        "cantidad": 4,
+        "precioUnit": 3500,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Puerta Gymse",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 470000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Cierratiraje 6\"",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 120000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Clapeta 4\"",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 65000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Horno chico",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 500000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Cajón cenicero",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 100000,
+        "categoria": "Herrería",
+        "obs": ""
+      }
+    ]
+  }
+}
