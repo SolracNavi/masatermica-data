@@ -800,7 +800,7 @@
         "obs": ""
       },
       {
-        "material": "Placa cementicia",
+        "material": "Losetas h.a.",
         "modelo": "65x65x3cm",
         "cantidad": 4,
         "precioUnit": 25000,
@@ -835,7 +835,7 @@
         "material": "Caños 6\"",
         "modelo": "Zinguería",
         "cantidad": 4,
-        "precioUnit": 15000,
+        "precioUnit": 25000,
         "categoria": "Zinguería",
         "obs": ""
       },
@@ -880,7 +880,7 @@
         "obs": ""
       },
       {
-        "material": "Puerta",
+        "material": "Puerta N0",
         "modelo": "Fundición",
         "cantidad": 1,
         "precioUnit": 350000,
@@ -888,7 +888,7 @@
         "obs": ""
       },
       {
-        "material": "Clapeta",
+        "material": "Clapeta 6\"",
         "modelo": "Herrería",
         "cantidad": 1,
         "precioUnit": 65000,
@@ -896,7 +896,7 @@
         "obs": ""
       },
       {
-        "material": "Atajo",
+        "material": "Atajo 4\"",
         "modelo": "Herrería",
         "cantidad": 1,
         "precioUnit": 80000,
