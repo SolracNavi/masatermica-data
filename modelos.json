@@ -1,7 +1,9 @@
 {
   "_precios": {
     "refractarios": 4000,
-    "cocidosModulares": 500
+    "cocidosModulares": 500,
+    "losetasHA": 25000,
+    "canos6": 25000
   },
   "gymse_combinada": {
     "nombre": "Gymse Combinada (con horno y banco)",
@@ -375,7 +377,7 @@
         "material": "Losetas h.a.",
         "modelo": "Placa 65x65cm",
         "cantidad": 4,
-        "precioUnit": 8000,
+        "precioUnit": 25000,
         "categoria": "Mampostería",
         "obs": "65cm2 de Hormigón armado"
       },
@@ -384,14 +386,6 @@
         "modelo": "Zinguería",
         "cantidad": 5,
         "precioUnit": 25000,
-        "categoria": "Zinguería",
-        "obs": ""
-      },
-      {
-        "material": "Codos 6\"",
-        "modelo": "Zinguería",
-        "cantidad": 2,
-        "precioUnit": 15000,
         "categoria": "Zinguería",
         "obs": ""
       },
@@ -436,14 +430,6 @@
         "obs": "Inox"
       },
       {
-        "material": "Chapa negra #14",
-        "modelo": "70x70cm",
-        "cantidad": 1,
-        "precioUnit": 95000,
-        "categoria": "Herrería",
-        "obs": ""
-      },
-      {
         "material": "Puerta BBR6",
         "modelo": "Herrería",
         "cantidad": 1,
@@ -452,7 +438,7 @@
         "obs": ""
       },
       {
-        "material": "Salida con Clapeta 6\"",
+        "material": "Clapeta 6\"",
         "modelo": "Herrería",
         "cantidad": 1,
         "precioUnit": 120000,
