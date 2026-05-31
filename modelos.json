@@ -310,5 +310,171 @@
         "obs": ""
       }
     ]
+  },
+  "patagonica_horno": {
+    "nombre": "Estufa Patagónica (con horno y banco)",
+    "diasEstufero": 5,
+    "cantEstuferos": 1,
+    "diasAyudante": 4,
+    "cantAyudantes": 3,
+    "diasZinguero": 1,
+    "cantZinguero": 1,
+    "diasAprendiz": 0,
+    "cantAprendiz": 0,
+    "pctImprevistos": 30,
+    "materiales": [
+      {
+        "material": "Ladrillos refractarios",
+        "modelo": "",
+        "cantidad": 45,
+        "precioUnit": 4000,
+        "categoria": "Mampostería",
+        "obs": "Fara, Seamsa o Cer. Avellaneda"
+      },
+      {
+        "material": "Ladrillos cocidos modulares",
+        "modelo": "Chicos 45x105x230",
+        "cantidad": 600,
+        "precioUnit": 500,
+        "categoria": "Mampostería",
+        "obs": "Tipo Allen o Mendoza"
+      },
+      {
+        "material": "Ladrillos cerámicos",
+        "modelo": "12x18x33",
+        "cantidad": 30,
+        "precioUnit": 970,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Arena",
+        "modelo": "m³",
+        "cantidad": 1,
+        "precioUnit": 80000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Tierra arcillosa",
+        "modelo": "m³",
+        "cantidad": 0.5,
+        "precioUnit": 2000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Lana de roca",
+        "modelo": "Plancha 120x50cm 50mm",
+        "cantidad": 1,
+        "precioUnit": 15000,
+        "categoria": "Aislación",
+        "obs": "100kg/m³"
+      },
+      {
+        "material": "Losetas h.a.",
+        "modelo": "Placa 65x65cm",
+        "cantidad": 4,
+        "precioUnit": 25000,
+        "categoria": "Mampostería",
+        "obs": "65cm2 de Hormigón armado"
+      },
+      {
+        "material": "Caños 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 5,
+        "precioUnit": 15000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Camisa aislación 8\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 18000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Sombrero Ventury 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 15000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Dektite #7",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 60000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Reducción 8\" a 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 3500,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Tapacielo 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 4500,
+        "categoria": "Zinguería",
+        "obs": "Inox"
+      },
+      {
+        "material": "Puerta BBR6",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 430000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Salida con Clapeta 6\"",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 120000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Atajo 4\"",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 65000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Horno chico",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 500000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Cajón cenicero",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 100000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Rejilla",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 80000,
+        "categoria": "Herrería",
+        "obs": ""
+      }
+    ]
   }
 }
