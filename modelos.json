@@ -315,9 +315,9 @@
     "nombre": "Estufa Patagónica (con horno y banco)",
     "diasEstufero": 5,
     "cantEstuferos": 1,
-    "diasAyudante": 4,
-    "cantAyudantes": 3,
-    "diasZinguero": 1,
+    "diasAyudante": 5,
+    "cantAyudantes": 2,
+    "diasZinguero": 0,
     "cantZinguero": 1,
     "diasAprendiz": 0,
     "cantAprendiz": 0,
@@ -375,7 +375,7 @@
         "material": "Losetas h.a.",
         "modelo": "Placa 65x65cm",
         "cantidad": 4,
-        "precioUnit": 25000,
+        "precioUnit": 8000,
         "categoria": "Mampostería",
         "obs": "65cm2 de Hormigón armado"
       },
@@ -383,6 +383,14 @@
         "material": "Caños 6\"",
         "modelo": "Zinguería",
         "cantidad": 5,
+        "precioUnit": 25000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Codos 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 2,
         "precioUnit": 15000,
         "categoria": "Zinguería",
         "obs": ""
@@ -426,6 +434,14 @@
         "precioUnit": 4500,
         "categoria": "Zinguería",
         "obs": "Inox"
+      },
+      {
+        "material": "Chapa negra #14",
+        "modelo": "70x70cm",
+        "cantidad": 1,
+        "precioUnit": 95000,
+        "categoria": "Herrería",
+        "obs": ""
       },
       {
         "material": "Puerta BBR6",
