@@ -776,5 +776,163 @@
         "obs": ""
       }
     ]
+  },
+  "cocina_patag": {
+    "nombre": "Cocina Patagónica (con banco)",
+    "diasEstufero": 5,
+    "cantEstuferos": 1,
+    "diasAyudante": 4,
+    "cantAyudantes": 2,
+    "diasZinguero": 1,
+    "cantZinguero": 1,
+    "diasAprendiz": 0,
+    "cantAprendiz": 0,
+    "pctImprevistos": 30,
+    "materiales": [
+      {
+        "material": "Ladrillos refractarios",
+        "modelo": "",
+        "cantidad": 40,
+        "precioUnit": 4000,
+        "categoria": "Mampostería",
+        "obs": "Fara o Cer. Avellaneda"
+      },
+      {
+        "material": "Ladrillos cocidos modulares",
+        "modelo": "Chicos 45x105x230",
+        "cantidad": 250,
+        "precioUnit": 500,
+        "categoria": "Mampostería",
+        "obs": "Tipo Allen o Mendoza"
+      },
+      {
+        "material": "Ladrillos cerámicos",
+        "modelo": "12x18x33",
+        "cantidad": 15,
+        "precioUnit": 970,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Placa cementicia",
+        "modelo": "65x65x3cm",
+        "cantidad": 4,
+        "precioUnit": 25000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Arena",
+        "modelo": "m³",
+        "cantidad": 1,
+        "precioUnit": 80000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Tierra arcillosa",
+        "modelo": "m³",
+        "cantidad": 0.5,
+        "precioUnit": 0,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Lana de roca",
+        "modelo": "Plancha 120x50cm 50mm",
+        "cantidad": 0.5,
+        "precioUnit": 47282,
+        "categoria": "Aislación",
+        "obs": ""
+      },
+      {
+        "material": "Caños 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 4,
+        "precioUnit": 15000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Camisa aislación 8\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 8000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Sombrero Ventury 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 16000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Kit Dektite Nro 7",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 50000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Reducción 8\" a 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 12000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Tapacielo 6\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 12000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Puerta",
+        "modelo": "Fundición",
+        "cantidad": 1,
+        "precioUnit": 350000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Clapeta",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 65000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Atajo",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 80000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Rejilla",
+        "modelo": "Fundición",
+        "cantidad": 1,
+        "precioUnit": 80000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Plancha de fundición",
+        "modelo": "Fundición",
+        "cantidad": 1,
+        "precioUnit": 200000,
+        "categoria": "Herrería",
+        "obs": ""
+      }
+    ]
   }
 }
