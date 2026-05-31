@@ -1030,7 +1030,7 @@
         "obs": ""
       },
       {
-        "material": "Clapeta 4\"",
+        "material": "Clapeta 8\"",
         "modelo": "Herrería",
         "cantidad": 1,
         "precioUnit": 60000,
@@ -1046,19 +1046,19 @@
         "obs": ""
       },
       {
-        "material": "Salida y clapeta",
-        "modelo": "Herrería",
-        "cantidad": 1,
-        "precioUnit": 150000,
-        "categoria": "Herrería",
-        "obs": ""
-      },
-      {
         "material": "Plancha fundición",
         "modelo": "",
         "cantidad": 1,
         "precioUnit": 200000,
         "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Atajo 4\"",
+        "modelo": "",
+        "cantidad": 0,
+        "precioUnit": 25000,
+        "categoria": "Mampostería",
         "obs": ""
       }
     ]
