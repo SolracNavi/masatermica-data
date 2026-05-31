@@ -1076,5 +1076,155 @@
         "obs": ""
       }
     ]
+  },
+  "cook_horno": {
+    "nombre": "Cook (con banco y horno)",
+    "diasEstufero": 6,
+    "cantEstuferos": 1,
+    "diasAyudante": 5,
+    "cantAyudantes": 2,
+    "diasZinguero": 1,
+    "cantZinguero": 1,
+    "diasAprendiz": 0,
+    "cantAprendiz": 0,
+    "pctImprevistos": 30,
+    "materiales": [
+      {
+        "material": "Ladrillos refractarios",
+        "modelo": "",
+        "cantidad": 70,
+        "precioUnit": 4000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Ladrillos cocidos modulares",
+        "modelo": "Chicos 45x105x230",
+        "cantidad": 500,
+        "precioUnit": 500,
+        "categoria": "Mampostería",
+        "obs": "Tipo Allen o Mendoza"
+      },
+      {
+        "material": "Tierra arcillosa",
+        "modelo": "m³",
+        "cantidad": 0.5,
+        "precioUnit": 2000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Lana de roca",
+        "modelo": "Plancha",
+        "cantidad": 1,
+        "precioUnit": 2500,
+        "categoria": "Aislación",
+        "obs": "100kg/m³"
+      },
+      {
+        "material": "Losetas de hormigón armado",
+        "modelo": "1.22x2.44",
+        "cantidad": 2,
+        "precioUnit": 25000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Caños 8\"",
+        "modelo": "Zinguería",
+        "cantidad": 6,
+        "precioUnit": 8000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Camisa aislación 10\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 4244,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Sombrero Ventury 8\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 4475,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Kit Dektite Nro 7",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 30000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Reducción 10\" a 8\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 7000,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Tapacielo 8\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 5500,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Puerta Gymse",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 470000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Clapeta 4\"",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 80000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Cajón cenicero",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 100000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Salida y clapeta",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 150000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Plancha fundición",
+        "modelo": "",
+        "cantidad": 1,
+        "precioUnit": 200000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Horno chico",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 500000,
+        "categoria": "Herrería",
+        "obs": ""
+      }
+    ]
   }
 }
