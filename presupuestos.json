@@ -20,7 +20,7 @@
         "material": "Ladrillos cocidos modulares",
         "modelo": "Chicos 45x105x230",
         "cantidad": 1500,
-        "precioUnit": 500,
+        "precioUnit": 250,
         "categoria": "Mampostería",
         "obs": "Tipo Allen o Mendoza"
       },
@@ -166,7 +166,7 @@
       },
       "zinguero": {
         "dias": 1,
-        "cant": 1,
+        "cant": 0,
         "jornal": 171000
       },
       "aprendiz": {
@@ -176,10 +176,10 @@
       }
     },
     "viat": {
-      "nafta": 0,
-      "viajes": 0,
-      "factor": 0,
-      "km": 0,
+      "nafta": 360000,
+      "viajes": 2,
+      "factor": 3.5,
+      "km": 17000,
       "diasTrabajo": 0,
       "personas": 0,
       "comidas": 0,
@@ -187,7 +187,7 @@
       "hotelNoche": 0,
       "otros": 0
     },
-    "total": 7980915,
-    "savedAt": "2026-06-12T20:33:47.971Z"
+    "total": 9903615,
+    "savedAt": "2026-06-12T20:43:57.735Z"
   }
 }
