@@ -162,7 +162,7 @@
       "ayudante": {
         "dias": 7,
         "cant": 1,
-        "jornal": 125000
+        "jornal": 142500
       },
       "zinguero": {
         "dias": 1,
@@ -170,8 +170,8 @@
         "jornal": 171000
       },
       "aprendiz": {
-        "dias": 2,
-        "cant": 5,
+        "dias": 5,
+        "cant": 2,
         "jornal": 100000
       }
     },
@@ -179,7 +179,7 @@
       "nafta": 360000,
       "viajes": 2,
       "factor": 3.5,
-      "km": 17000,
+      "km": 1700,
       "diasTrabajo": 0,
       "personas": 0,
       "comidas": 0,
@@ -187,7 +187,7 @@
       "hotelNoche": 0,
       "otros": 0
     },
-    "total": 8927100,
-    "savedAt": "2026-06-12T21:00:48.323Z"
+    "total": 9086350,
+    "savedAt": "2026-06-12T21:23:03.471Z"
   }
 }
