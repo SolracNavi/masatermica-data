@@ -116,7 +116,7 @@
         "material": "Puerta y marco",
         "modelo": "Herrería",
         "cantidad": 1,
-        "precioUnit": 650000,
+        "precioUnit": 500000,
         "categoria": "Herrería",
         "obs": ""
       },
@@ -124,7 +124,7 @@
         "material": "Bypass",
         "modelo": "Herrería",
         "cantidad": 1,
-        "precioUnit": 80000,
+        "precioUnit": 25000,
         "categoria": "Herrería",
         "obs": ""
       },
@@ -132,15 +132,7 @@
         "material": "Clapeta",
         "modelo": "Herrería",
         "cantidad": 1,
-        "precioUnit": 65000,
-        "categoria": "Herrería",
-        "obs": ""
-      },
-      {
-        "material": "Cajón cenicero",
-        "modelo": "Herrería",
-        "cantidad": 1,
-        "precioUnit": 100000,
+        "precioUnit": 37000,
         "categoria": "Herrería",
         "obs": ""
       },
@@ -148,8 +140,16 @@
         "material": "Horno",
         "modelo": "Herrería",
         "cantidad": 1,
-        "precioUnit": 600000,
+        "precioUnit": 320000,
         "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Losetas de H.A.",
+        "modelo": "",
+        "cantidad": 4,
+        "precioUnit": 25000,
+        "categoria": "Mampostería",
         "obs": ""
       }
     ],
@@ -160,9 +160,9 @@
         "jornal": 171000
       },
       "ayudante": {
-        "dias": 6,
-        "cant": 3,
-        "jornal": 123975
+        "dias": 7,
+        "cant": 1,
+        "jornal": 125000
       },
       "zinguero": {
         "dias": 1,
@@ -170,9 +170,9 @@
         "jornal": 171000
       },
       "aprendiz": {
-        "dias": 0,
-        "cant": 0,
-        "jornal": 84075
+        "dias": 2,
+        "cant": 5,
+        "jornal": 100000
       }
     },
     "viat": {
@@ -187,7 +187,7 @@
       "hotelNoche": 0,
       "otros": 0
     },
-    "total": 9903615,
-    "savedAt": "2026-06-12T20:43:57.735Z"
+    "total": 8927100,
+    "savedAt": "2026-06-12T21:00:48.323Z"
   }
 }
