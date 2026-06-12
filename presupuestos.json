@@ -1,0 +1,193 @@
+{
+  "p_1781296427971": {
+    "nombre": "Diego Escobar",
+    "cliente": "Diego Escobar",
+    "fecha": "2026-06-12",
+    "modeloKey": "gigante_blanca",
+    "modeloNombre": "Gigante Blanca (con horno y banco)",
+    "dolarBlue": 1425,
+    "pctImprev": 30,
+    "materiales": [
+      {
+        "material": "Ladrillos refractarios",
+        "modelo": "",
+        "cantidad": 165,
+        "precioUnit": 4000,
+        "categoria": "Mampostería",
+        "obs": "Fara o Cer. Avellaneda"
+      },
+      {
+        "material": "Ladrillos cocidos modulares",
+        "modelo": "Chicos 45x105x230",
+        "cantidad": 1500,
+        "precioUnit": 500,
+        "categoria": "Mampostería",
+        "obs": "Tipo Allen o Mendoza"
+      },
+      {
+        "material": "Arena",
+        "modelo": "m³",
+        "cantidad": 1,
+        "precioUnit": 80000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Tierra arcillosa",
+        "modelo": "m³",
+        "cantidad": 0.5,
+        "precioUnit": 25000,
+        "categoria": "Mampostería",
+        "obs": ""
+      },
+      {
+        "material": "Lana de roca 100kg/m³",
+        "modelo": "Plancha 100x50cm 50mm",
+        "cantidad": 2,
+        "precioUnit": 52000,
+        "categoria": "Aislación",
+        "obs": ""
+      },
+      {
+        "material": "Lana de roca 50kg/m³",
+        "modelo": "Plancha 100x50cm 50mm",
+        "cantidad": 2,
+        "precioUnit": 25000,
+        "categoria": "Aislación",
+        "obs": ""
+      },
+      {
+        "material": "Caños 8\"",
+        "modelo": "Zinguería",
+        "cantidad": 6,
+        "precioUnit": 0,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Camisa aislación 10\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 0,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Sombrero Ventury 8\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 0,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Kit Dektite Nro 7",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 0,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Reducción 10\" a 8\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 0,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Tapacielo 8\"",
+        "modelo": "Zinguería",
+        "cantidad": 1,
+        "precioUnit": 0,
+        "categoria": "Zinguería",
+        "obs": ""
+      },
+      {
+        "material": "Hierro Tee 2\"",
+        "modelo": "Herrería",
+        "cantidad": 6,
+        "precioUnit": 25000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Puerta y marco",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 650000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Bypass",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 80000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Clapeta",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 65000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Cajón cenicero",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 100000,
+        "categoria": "Herrería",
+        "obs": ""
+      },
+      {
+        "material": "Horno",
+        "modelo": "Herrería",
+        "cantidad": 1,
+        "precioUnit": 600000,
+        "categoria": "Herrería",
+        "obs": ""
+      }
+    ],
+    "personal": {
+      "estufero": {
+        "dias": 7,
+        "cant": 1,
+        "jornal": 171000
+      },
+      "ayudante": {
+        "dias": 6,
+        "cant": 3,
+        "jornal": 123975
+      },
+      "zinguero": {
+        "dias": 1,
+        "cant": 1,
+        "jornal": 171000
+      },
+      "aprendiz": {
+        "dias": 0,
+        "cant": 0,
+        "jornal": 84075
+      }
+    },
+    "viat": {
+      "nafta": 0,
+      "viajes": 0,
+      "factor": 0,
+      "km": 0,
+      "diasTrabajo": 0,
+      "personas": 0,
+      "comidas": 0,
+      "nochesHotel": 0,
+      "hotelNoche": 0,
+      "otros": 0
+    },
+    "total": 7980915,
+    "savedAt": "2026-06-12T20:33:47.971Z"
+  }
+}
